@@ -1,9 +1,3 @@
-# Table of Contents
-1. [Article 1 - Prelim Vibes](#A Low Carbon Footprint Approach to the Reconstitution of Plastics into 3D-Printer Filament for Enhanced Waste Reduction)
-2. [Article 2 - Vibe Checks - Adi's findings](Materials Selection of 3D Printing Filament and Utilization of Recycled Polyethylene Terephthalate (PET) in a Redesigned Breadboard)
-3. [Article 3 - Suitability of PET and R-PET compared to commercial products](# Materials Selection of 3D Printing Filament and Utilization of Recycled Polyethylene Terephthalate (PET) in a Redesigned Breadboard)
-
-
 # A Low Carbon Footprint Approach to the Reconstitution of Plastics into 3D-Printer Filament for Enhanced Waste Reduction
 http://dro.deakin.edu.au/eserv/DU:30091546/mohan-lowcarbonfootprint-2017.pdf
 Investigates the parameters that must be controlled when recycling waste plastics into HDPE and ABS polymers.
@@ -66,7 +60,3 @@ MFI of commercial filaments made from virgin materials (assumed) is 5-38 g/10min
 - pg 55 shows that moisture is a BIG player in MFI and established standard practice. 
 
 - table on pg 56 shows R-PET after two tests - you can see that virgin PETG is more consistant and has a lower MFI (5 compared to 100 g/10min) than R-PET reprocessed. 
-
-TODO: Find process of reprocessed (something to do with re-extruded)
-
-TODO: Find out about the PMDA chain extender - like what is it? 
