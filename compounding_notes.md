@@ -60,3 +60,5 @@ MFI of commercial filaments made from virgin materials (assumed) is 5-38 g/10min
 - pg 55 shows that moisture is a BIG player in MFI and established standard practice. 
 
 - table on pg 56 shows R-PET after two tests - you can see that virgin PETG is more consistant and has a lower MFI (5 compared to 100 g/10min) than R-PET reprocessed. 
+
+- CONT: pg 59
